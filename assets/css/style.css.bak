@@ -181,16 +181,3 @@ p{color:rgba(248,245,239,.72)}
 .site-footer{background:#06131B;color:#F8F5EF;border-top:1px solid rgba(200,169,106,.14)}.footer-grid h3{color:#F8F5EF}.footer-grid p,.footer-grid a{color:rgba(248,245,239,.66)}.footer-grid a:hover{color:#C8A96A}.footer-bottom{border-top-color:rgba(248,245,239,.12);color:rgba(248,245,239,.46)}
 .thank-you{background:radial-gradient(circle at 82% 10%,rgba(143,184,201,.16),transparent 34%),linear-gradient(145deg,#071A24,#0D2633)}
 .lightbox{background:rgba(4,14,21,.94)}.lightbox-close{background:#F7F3EA;color:#071A24}
-
-/* Improved contrast for page hero tags */
-.page-kicker .tag{
-  background: rgba(248,245,239,.08);
-  color: #C8A96A;
-  border: 1px solid rgba(200,169,106,.28);
-  box-shadow: 0 10px 28px rgba(0,0,0,.12);
-}
-.page-kicker .tag:hover{
-  background: rgba(248,245,239,.12);
-  color: #D8BF83;
-  border-color: rgba(216,191,131,.36);
-}
