@@ -119,3 +119,65 @@ p{margin:0;color:var(--muted)}
 .mobile-menu .mobile-lang a.active{background:var(--navy);color:white}
 @media (max-width:980px){.nav-shell{gap:.55rem}.nav-shell>.lang-switch{display:none}.menu-toggle{margin-left:auto}.mobile-menu .mobile-lang{display:flex}}
 @media (max-width:430px){.brand span:last-child{font-size:.9rem}.lang-switch a{min-width:36px;padding:.47rem .52rem;font-size:.72rem}.brand-mark{width:36px;height:36px}.nav-shell{padding:.55rem .55rem .55rem .7rem}}
+
+/* Luxury Adriatic palette update */
+:root{
+  --ink:#071A24;
+  --navy:#071A24;
+  --navy-2:#0D2633;
+  --sea:#8FB8C9;
+  --sand:#F7F3EA;
+  --cream:#071A24;
+  --white:#ffffff;
+  --gold:#C8A96A;
+  --muted:#AEBEC6;
+  --line:rgba(248,245,239,.16);
+  --shadow:0 28px 90px rgba(0,0,0,.28);
+}
+body{background:#071A24;color:#F8F5EF}
+h1,h2,h3{color:#F8F5EF}
+p{color:rgba(248,245,239,.72)}
+.lead{color:#D7E4E8}
+.eyebrow{color:#C8A96A}
+::selection{background:rgba(200,169,106,.38)}
+.btn-primary{background:#C8A96A;color:#071A24;box-shadow:0 18px 44px rgba(200,169,106,.22)}
+.btn-primary:hover{background:#D8BF83;color:#071A24}
+.btn-light{background:#F7F3EA;color:#071A24;box-shadow:0 16px 40px rgba(0,0,0,.16)}
+.btn-ghost{border-color:rgba(248,245,239,.28);color:#F8F5EF;background:rgba(248,245,239,.08)}
+.btn-ghost:hover{border-color:#C8A96A;background:rgba(248,245,239,.14);color:#F8F5EF}
+.site-header .nav-shell{border-color:rgba(248,245,239,.13);background:rgba(7,26,36,.78);box-shadow:0 24px 70px rgba(0,0,0,.24)}
+.brand{color:#F8F5EF}.brand small{color:#8FB8C9}.brand-mark{background:#C8A96A;color:#071A24}
+.nav-links a{color:rgba(248,245,239,.78)}
+.nav-links a:hover,.nav-links a.active{background:rgba(248,245,239,.1);color:#C8A96A}
+.menu-toggle{background:#C8A96A;color:#071A24}
+.mobile-menu{background:rgba(7,26,36,.97);border-color:rgba(248,245,239,.12);box-shadow:0 24px 70px rgba(0,0,0,.32)}
+.mobile-menu a{color:#F8F5EF}.mobile-menu a:hover{background:rgba(248,245,239,.1);color:#C8A96A}
+.lang-switch{border-color:rgba(248,245,239,.18);background:rgba(248,245,239,.08)}
+.lang-switch a{color:#F8F5EF}.lang-switch a.active{background:#C8A96A;color:#071A24;box-shadow:0 8px 22px rgba(200,169,106,.16)}.lang-switch a:not(.active):hover{background:rgba(248,245,239,.12);color:#C8A96A}
+.mobile-menu .mobile-lang{border-top-color:rgba(248,245,239,.12)}.mobile-menu .mobile-lang a{background:rgba(248,245,239,.08);color:#F8F5EF}.mobile-menu .mobile-lang a.active{background:#C8A96A;color:#071A24}
+.hero{background:radial-gradient(circle at 82% 10%,rgba(143,184,201,.18),transparent 34%),radial-gradient(circle at 12% 86%,rgba(200,169,106,.12),transparent 34%),linear-gradient(145deg,#071A24 0%,#0D2633 58%,#06131B 100%)}
+.hero::before{background:radial-gradient(circle,rgba(143,184,201,.16),transparent 62%)}
+.hero-card{border-color:rgba(248,245,239,.42);box-shadow:0 30px 90px rgba(0,0,0,.34)}
+.float-badge{background:rgba(200,169,106,.94);color:#071A24;box-shadow:0 16px 44px rgba(0,0,0,.26)}
+.fact{border-color:rgba(248,245,239,.13);background:rgba(248,245,239,.08);box-shadow:0 18px 52px rgba(0,0,0,.16)}
+.fact strong{color:#F8F5EF}.fact span{color:rgba(248,245,239,.7)}
+.section{background:#071A24}.section-alt{background:#F7F3EA;color:#071A24}.section-dark{background:#071A24}
+.section-alt h1,.section-alt h2,.section-alt h3{color:#071A24}.section-alt p,.section-alt .lead{color:#43525B}.section-alt .eyebrow{color:#9F7D41}
+.info-card,.apartment-panel,.booking-form,.location-card,.detail-card,.thank-card{background:#F7F3EA;border-color:rgba(7,26,36,.1);box-shadow:0 24px 70px rgba(0,0,0,.16);color:#071A24}
+.info-card h3,.apartment-content h3,.booking-form h2,.booking-form h3,.location-card h3,.detail-card h3,.thank-card h1,.thank-card h2,.thank-card h3{color:#071A24}
+.info-card p,.apartment-content p,.booking-form p,.location-card p,.detail-card p,.thank-card p{color:#4A5961}
+.info-card .icon{background:rgba(7,26,36,.07);color:#071A24}.tag{background:rgba(7,26,36,.07);color:#071A24;border:1px solid rgba(7,26,36,.06)}
+.check-list li,.detail-card ul,.detail-card li{color:#3B4A52}.check-list li::before{color:#C8A96A}
+.apartment-image{background:#0D2633}.gallery-item{background:#0D2633;box-shadow:0 18px 54px rgba(0,0,0,.24)}.gallery-label{background:rgba(7,26,36,.78);color:#F8F5EF;border:1px solid rgba(248,245,239,.14)}
+.cta-band{background:linear-gradient(135deg,#071A24 0%,#0D2633 58%,#123447 100%);border:1px solid rgba(200,169,106,.2);box-shadow:0 30px 90px rgba(0,0,0,.26)}
+.cta-band::after{background:radial-gradient(circle,rgba(200,169,106,.24),transparent 68%)}.cta-band h2{color:#F8F5EF}.cta-band p{color:rgba(248,245,239,.74)}
+.booking-aside,.sticky-book{background:linear-gradient(145deg,#071A24,#0D2633);border:1px solid rgba(200,169,106,.18);box-shadow:0 28px 90px rgba(0,0,0,.28)}
+.booking-aside h2,.sticky-book h3{color:#F8F5EF}.booking-aside p,.sticky-book p{color:rgba(248,245,239,.72)}.mini-contact a,.mini-contact div{border-color:rgba(248,245,239,.14);background:rgba(248,245,239,.07);color:#F8F5EF}
+.field label{color:#071A24}.field input,.field select,.field textarea{background:#fffdf8;color:#071A24;border-color:rgba(7,26,36,.16)}.field input:focus,.field select:focus,.field textarea:focus{border-color:#C8A96A;box-shadow:0 0 0 4px rgba(200,169,106,.16);background:white}.form-note{color:#59666D}.privacy{color:#6A767C}
+.map-card{background:linear-gradient(rgba(7,26,36,.58),rgba(7,26,36,.62)),url('../images/roko-window-view.avif') center/cover;border:1px solid rgba(200,169,106,.18)}.map-card h3{color:#F8F5EF}.map-card p{color:rgba(248,245,239,.75)}
+.page-hero{background:radial-gradient(circle at 86% 34%,rgba(143,184,201,.16),transparent 32%),radial-gradient(circle at 8% 88%,rgba(200,169,106,.1),transparent 30%),linear-gradient(145deg,#071A24 0%,#0D2633 62%,#06131B 100%)}
+.page-hero::after{background:radial-gradient(circle,rgba(143,184,201,.14),transparent 64%)}
+.apartment-hero-image{box-shadow:0 30px 90px rgba(0,0,0,.32);border:1px solid rgba(200,169,106,.16)}.mini-gallery button{background:#0D2633;box-shadow:0 16px 48px rgba(0,0,0,.18)}
+.site-footer{background:#06131B;color:#F8F5EF;border-top:1px solid rgba(200,169,106,.14)}.footer-grid h3{color:#F8F5EF}.footer-grid p,.footer-grid a{color:rgba(248,245,239,.66)}.footer-grid a:hover{color:#C8A96A}.footer-bottom{border-top-color:rgba(248,245,239,.12);color:rgba(248,245,239,.46)}
+.thank-you{background:radial-gradient(circle at 82% 10%,rgba(143,184,201,.16),transparent 34%),linear-gradient(145deg,#071A24,#0D2633)}
+.lightbox{background:rgba(4,14,21,.94)}.lightbox-close{background:#F7F3EA;color:#071A24}
