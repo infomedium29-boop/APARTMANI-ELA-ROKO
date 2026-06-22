@@ -117,5 +117,5 @@ p{margin:0;color:var(--muted)}
 .mobile-menu .mobile-lang{display:flex;align-items:center;gap:.45rem;padding:.75rem 1rem;border-top:1px solid rgba(13,43,62,.1);margin-top:.35rem}
 .mobile-menu .mobile-lang a{flex:1;text-align:center;background:white;padding:.75rem;border-radius:16px}
 .mobile-menu .mobile-lang a.active{background:var(--navy);color:white}
-@media (max-width:980px){.nav-shell{gap:.55rem}.nav-shell>.lang-switch{margin-left:auto}.menu-toggle{margin-left:.15rem}.mobile-menu .mobile-lang{display:flex}}
+@media (max-width:980px){.nav-shell{gap:.55rem}.nav-shell>.lang-switch{display:none}.menu-toggle{margin-left:auto}.mobile-menu .mobile-lang{display:flex}}
 @media (max-width:430px){.brand span:last-child{font-size:.9rem}.lang-switch a{min-width:36px;padding:.47rem .52rem;font-size:.72rem}.brand-mark{width:36px;height:36px}.nav-shell{padding:.55rem .55rem .55rem .7rem}}
