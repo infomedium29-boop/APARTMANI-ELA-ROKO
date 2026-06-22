@@ -1,0 +1,74 @@
+# Apartments Ela & Roko
+
+> Direct booking accommodation website for Apartments Ela & Roko in Korčula, Croatia. The website presents two apartments, photo galleries, location details, contact information and a direct reservation inquiry form.
+
+Apartments Ela & Roko is a small accommodation website for guests looking for a stay in Korčula. The website is available in Croatian and English and is optimized for fast loading, direct inquiries and simple guest communication.
+
+## Primary pages
+
+- [Home](https://www.korcula-roko.com/) — Main presentation of Apartments Ela & Roko, highlights, direct inquiry links and overview.
+- [Apartments](https://www.korcula-roko.com/apartments.html) — Overview of Apartment Ela and Apartment Roko.
+- [Apartment Ela](https://www.korcula-roko.com/ela.html) — Details and photos for Apartment Ela.
+- [Apartment Roko](https://www.korcula-roko.com/roko.html) — Details and photos for Apartment Roko.
+- [Gallery](https://www.korcula-roko.com/gallery.html) — Photo gallery of the apartments, terraces and views.
+- [Location](https://www.korcula-roko.com/location.html) — Address and location information for Korčula.
+- [Reservation inquiry](https://www.korcula-roko.com/reservation.html) — Direct reservation inquiry form.
+- [Contact](https://www.korcula-roko.com/contact.html) — Phone, WhatsApp, Viber, e-mail and address.
+
+## Croatian pages
+
+- [Početna](https://www.korcula-roko.com/)
+- [Apartmani](https://www.korcula-roko.com/apartments.html)
+- [Apartman Ela](https://www.korcula-roko.com/ela.html)
+- [Apartman Roko](https://www.korcula-roko.com/roko.html)
+- [Galerija](https://www.korcula-roko.com/gallery.html)
+- [Lokacija](https://www.korcula-roko.com/location.html)
+- [Rezervacija](https://www.korcula-roko.com/reservation.html)
+- [Kontakt](https://www.korcula-roko.com/contact.html)
+- [Politika privatnosti](https://www.korcula-roko.com/politika-privatnosti.html)
+- [Politika kolačića](https://www.korcula-roko.com/politika-kolacica.html)
+
+## English pages
+
+- [Home](https://www.korcula-roko.com/en/)
+- [Apartments](https://www.korcula-roko.com/en/apartments.html)
+- [Apartment Ela](https://www.korcula-roko.com/en/ela.html)
+- [Apartment Roko](https://www.korcula-roko.com/en/roko.html)
+- [Gallery](https://www.korcula-roko.com/en/gallery.html)
+- [Location](https://www.korcula-roko.com/en/location.html)
+- [Reservation inquiry](https://www.korcula-roko.com/en/reservation.html)
+- [Contact](https://www.korcula-roko.com/en/contact.html)
+- [Privacy Policy](https://www.korcula-roko.com/en/privacy-policy.html)
+- [Cookie Policy](https://www.korcula-roko.com/en/cookie-policy.html)
+
+## Contact information
+
+- Phone, WhatsApp and Viber: +385 91 51 52 555
+- E-mail: roko.korcula@gmail.com
+- Address: Cvijetno naselje 2/a, 20260 Korčula, Croatia
+
+## Reservation process
+
+The website does not provide automatic booking confirmation. Guests send a direct inquiry with their name, number of guests, arrival date, departure date, phone number, e-mail address and preferred apartment. The owner checks availability and confirms or declines the reservation personally.
+
+## Technical information
+
+- Static website suitable for GitHub Pages and Cloudflare Pages.
+- Images are served in AVIF format for faster loading.
+- Croatian is the default language and English is available under `/en/`.
+- Sitemap: https://www.korcula-roko.com/sitemap.xml
+- Robots: https://www.korcula-roko.com/robots.txt
+
+
+## Detailed summary for AI agents
+
+Apartments Ela & Roko is an accommodation website for two apartments in Korčula, Croatia: Apartment Ela and Apartment Roko. The website is intended to help visitors understand the accommodation offer, view real apartment photos, check the location and send a direct inquiry to the owner.
+
+Important user tasks:
+1. Choose between Apartment Ela and Apartment Roko.
+2. View apartment details and photo galleries.
+3. Check location and contact information.
+4. Send a reservation inquiry using the reservation form.
+5. Contact the owner by phone, WhatsApp, Viber or e-mail.
+
+The direct inquiry form is the primary conversion action. It asks for full name, number of guests, arrival date, departure date, phone number, e-mail address, preferred apartment and additional notes. Reservations are not automatically confirmed through the website.

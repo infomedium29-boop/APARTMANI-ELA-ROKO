@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.korcula-roko.com/sitemap.xml
+LLMS: https://www.korcula-roko.com/llms.txt
